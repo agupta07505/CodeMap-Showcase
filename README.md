@@ -38,7 +38,7 @@ I leveraged modern web technologies and industry-standard libraries to create a 
 ### 🏠 Landing Page
 The landing page provides a clean entry point with quick access to the editor. It highlights why CodeMap is ideal for practicing frontend development and testing UI ideas quickly.
 
-![Code Editor Interface](assets/Home%20Page.png)
+![Code Editor Interface](assets/HomePage.png)
 
 ### 💻 Code Editor
 The heart of the application. It features a triple-editor layout that feeds directly into a live preview sandbox, allowing for a seamless "write-and-see" workflow.
